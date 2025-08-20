@@ -17,7 +17,7 @@
 - **Linguagens:** C#, JavaScript, TypeScript  
 - **Back-end:** ASP.NET Core
 - **Front-end:** HTML5, CSS3, Bootstrap e Javascript 
-- **Banco de Dados:** MySQL, SQLite  
+- **Banco de Dados:** MySQL, PostgreSQL  
 - **Mobile:** .NET MAUI
 - **Outros:** Git, GitHub, Docker (iniciante)  
 
