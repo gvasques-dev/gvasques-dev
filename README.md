@@ -2,23 +2,22 @@
 
 💻 Atualmente trabalho como **Analista de Suporte (NOC)** na [Decision](https://www.decisionbr.com.br/).  
 🎓 Estudante de **Tecnologia em Sistemas para Internet** na Fatec Rubens Lara Baixada Santista (2º semestre).  
-📚 Focado no aprendizado de **C#, ASP.NET Core, MySQL e .NET MAUI**.  
+📚 Focado no aprendizado de **Python, SQL, AWS e Linux**.  
 
 ---
 
 ## 🚀 O que estou fazendo agora
-- Aprimorando meus conhecimentos em desenvolvimento **full stack com .NET**  
+- Aprimorando meus conhecimentos em desenvolvimento back-end com **Python**  
 - Estudando **boas práticas de programação e arquitetura de software**  
 - Construindo projetos pessoais para reforçar meu portfólio  
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** C#, JavaScript, TypeScript  
-- **Back-end:** ASP.NET Core
+- **Linguagens:** Python, JavaScript, TypeScript  
+- **Back-end:** Django, FastAPI
 - **Front-end:** HTML5, CSS3, Bootstrap e Javascript 
-- **Banco de Dados:** MySQL, PostgreSQL  
-- **Mobile:** .NET MAUI
+- **Banco de Dados:** MySQL, PostgreSQL 
 - **Outros:** Git, GitHub, Docker (iniciante)  
 
 ---
