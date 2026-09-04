@@ -1,7 +1,7 @@
 # 👋 Olá, me chamo Gustavo Vasques
 
 💻 Atualmente trabalho como **Analista de Suporte (NOC)** na [Decision](https://www.decisionbr.com.br/).  
-🎓 Estudante de **Tecnologia em Sistemas para Internet** na Fatec Rubens Lara Baixada Santista (2º semestre).  
+🎓 Estudante de **Tecnologia em Sistemas para Internet** na Fatec Rubens Lara Baixada Santista.  
 📚 Focado no aprendizado de **Python, SQL, AWS e Linux**.  
 
 ---
